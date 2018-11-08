@@ -3,7 +3,7 @@ Connect Four game developed in C++
 This is a project for a C++ object orientated course.
 
 
-*NOTE: This project is an overcomplicated version. The exaggeration of certain topics were used as a learning experience. The code may show some redundancy.*
+*NOTE: This project is an overcomplicated version. The exaggeration of certain topics like polymorphism and abrtract classes was used as a learning experience. The code may show some redundancy. I reccomend looking at board.cpp for the bulk of my code.*
 
 In this project I developed and implemented:
 - A working game of Connect Four
